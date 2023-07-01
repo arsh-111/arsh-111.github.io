@@ -54,10 +54,9 @@ Exposys Data Labs
 
 - <img alt="Computer fundamentals" src="https://img.shields.io/badge/:badgeContent">
 
-- <img alt="Object-oriented programming" src="https://img.shields.io/badge/:badgeContent">
-- <img alt="Teamwork" src="https://img.shields.io/badge/:badgeContent">
-- <img alt="Problem-solving" src="https://img.shields.io/badge/:badgeContent">
-- <img alt="Productivity" src="https://img.shields.io/badge/:badgeContent">
+ <img alt="Object-oriented programming" src="https://img.shields.io/badge/:badgeContent">
+ <img alt="Teamwork" src="https://img.shields.io/badge/:badgeContent">
+ <img alt="Problem-solving" src="https://img.shields.io/badge/:badgeContent">- <img alt="Productivity" src="https://img.shields.io/badge/:badgeContent">
 
 ---
 
