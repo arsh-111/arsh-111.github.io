@@ -6,7 +6,7 @@ Email: shirkeharshal111@gmail.com
 Phone: 8208291518  
 Location: Sangli, India  
 LinkedIn: [linkedin.com/in/harshal-shirke-38a38b1bb](https://www.linkedin.com/in/harshal-shirke-38a38b1bb)  
-GitHub: [github.com/arsh-111](https://github.com/arsh-111)
+GitHub: [github.com/arsh-111](https://github.com/arsh-111) <img alt="Computer fundamentals" src="[https://img.shields.io/badge/:badgeContent](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)">
 
 ---
 
@@ -52,7 +52,7 @@ Exposys Data Labs
 
 ## Skills
 
-- <img alt="Computer fundamentals" src="https://img.shields.io/badge/:badgeContent">
+ <img alt="Computer fundamentals" src="https://img.shields.io/badge/:badgeContent">
 
  <img alt="Object-oriented programming" src="https://img.shields.io/badge/:badgeContent">
  <img alt="Teamwork" src="https://img.shields.io/badge/:badgeContent">
